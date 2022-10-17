@@ -15,5 +15,6 @@ func main() {
 	//Leet.MergeTwoSortedLists()
 	//Leet.FindIndexSortedArray()
 	//Leet.FindIndexRotatedSortedArray()
-	Leet.FindIndexSortedArrayTwo()
+	//Leet.FindIndexSortedArrayTwo()
+	Leet.BinaryTreePrintAndSearch()
 }
